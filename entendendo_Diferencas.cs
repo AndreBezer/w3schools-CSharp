@@ -11,6 +11,7 @@ namespace Entendendo_Diferenca_Entre_WriteLine
     {
         public static void Main(string[] args)
         {
+            
             //WriteLine
             Console.WriteLine("Este é um ");
             Console.WriteLine("Comando WriteLine ");
